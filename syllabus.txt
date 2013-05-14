@@ -1,0 +1,39 @@
+﻿DLCL 202, Spring 2013
+SYLLABUS
+
+
+Week 1:  Data formats and  data encoding.
+We will learn about data formats and encoding. We’ll create accounts in Github and learn the basics. 
+Week 2: Evaluate your data.
+Introduction to OpenRefine: what it is and what it isn't. We'll go through the import process and learn top-level commands. You'll commit your data to your Github repository and document the changes.
+Week 3: Filtering, faceting, basic data transformations
+We'll learn how to create and work with subsets of data in OpenRefine. We'll gather statistics about the data set and document this in Github.
+Week 4: The shape of the data
+We'll use Tableau to organize the data in a timeline, on a map, etc. and post the resulting graphs to our Github wiki.
+Week 5: Advanced data transformations and enrichment
+We'll learn advanced features of OpenRefine for "cleaning" data. We'll introduce the GREL language and the reconciliation features.
+Week 6: Collaborate
+We'll make use of Github's collaboration tools to work as teams or contribute to each other's projects.
+Week 7: Take control of your visuals
+Learn  how to export SVG from Tableau or Gephi and create  a print-ready graphic with svg editing tools.
+Week 8: Publish to the web
+We will use Github's project pages to publish and share the results of the project.
+Week 9: Presentations 
+
+
+
+
+Reading:
+Folsom E., 2007, Database as Genre: The Epic Transformation of Archives in PMLA 122 (5), pp. 1571-1579 
+Wikipedia pages:
+File format
+Delimiter-separated values, Tab-separated values, Comma-separated values
+Markup language, XML, HTML
+JSON
+Character encoding, Ascii, Unicode, ISO/IEC 8859
+
+
+OpenRefine website (openrefine.org)
+Watch screencasts 1 (from the homepage)
+Browse the documentation (especially: FAQ, wiki)
+Browse the discussion list
