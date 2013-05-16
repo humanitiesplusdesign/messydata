@@ -1,6 +1,6 @@
 # From Messy Data to Beautiful Visualization
 
-This is the repository with syllabus and materials for a course taught at Stanford University in Spring 2013 as part of the Humanities+Design program.
+This is the repository with syllabus and materials for a course taught by @cncoleman and @glaucomantegari at Stanford University in Spring 2013 as part of the Humanities+Design program.
 
 Course Description:
 
